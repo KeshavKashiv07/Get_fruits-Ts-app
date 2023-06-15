@@ -1,0 +1,9 @@
+/* Add custom styles to display the fruits */
+.bodys{
+    background-color: rgb(36, 65, 80);
+}
+
+.bodys .Freshfruits{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
